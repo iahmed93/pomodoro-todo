@@ -5,11 +5,11 @@ Todo list and Pomodoro Timer
 
 # Development Stack
 
-VueJS
-NodeJS+Express
-MongoDB
-CI/CD ??
-Hosting ??
+- VueJS
+- NodeJS+Express
+- MongoDB
+- CI/CD ??
+- Hosting ??
 
 # Requirements
 
